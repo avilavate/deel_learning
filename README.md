@@ -1,2 +1,2 @@
 # deel_learning
-Tensorflow models - cocentric circles, mnist fashion image data
+Tensorflow models - concentric circles, mnist fashion image data
